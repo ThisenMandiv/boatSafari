@@ -23,6 +23,7 @@ include 'customer_navbar.php';
         <p>Welcome to Boat Safari Management System! We are dedicated to providing seamless and memorable boat safari experiences. Our platform allows you to book, manage, and enjoy safaris with ease, whether you're a customer or an administrator.</p>
         <ul>
             <li>Easy online safari booking</li>
+             <li>Easy online safari booking</li>
             <li>Real-time schedule management</li>
             <li>Friendly customer support</li>
             <li>Secure and user-friendly platform</li>
