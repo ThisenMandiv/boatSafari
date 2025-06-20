@@ -27,8 +27,10 @@ include 'customer_navbar.php';
             <li>Real-time schedule management</li>
                         <li>Real-time schedule management</li>
             <li>Friendly customer support</li>
+                        <li>Friendly customer support</li>
             <li>Secure and user-friendly platform</li>
                         <li>Secure and user-friendly platform</li>
+                                                <li>Secure and user-friendly platform</li>
         </ul>
         <p>Contact us for more information or to plan your next adventure!</p>
     </div>

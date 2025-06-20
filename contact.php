@@ -25,6 +25,7 @@ include 'customer_navbar.php';
 <body>
     <div class="contact-container">
         <h2>Contact Us</h2>
+               <h2>Helloo</h2>
         <?php if ($success): ?>
             <div class="success-msg">Thank you for contacting us! We will get back to you soon.</div>
         <?php endif; ?>
